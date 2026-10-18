@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0035-search-insert-position](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0031-next-permutation](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |

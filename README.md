@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0035-search-insert-position](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0036-valid-sudoku](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0036-valid-sudoku](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0036-valid-sudoku](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 <!---LeetCode Topics End-->

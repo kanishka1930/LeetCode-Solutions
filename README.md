@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 ## Hash Table
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |

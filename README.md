@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
+| [0066-plus-one](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
+| [0066-plus-one](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |

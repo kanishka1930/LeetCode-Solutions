@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
+| [0039-combination-sum](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0066-plus-one](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0039-combination-sum](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |

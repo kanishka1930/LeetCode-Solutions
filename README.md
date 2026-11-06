@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
+| [0043-multiply-strings](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0066-plus-one](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0038-count-and-say/) | Medium |
+| [0043-multiply-strings](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0058-length-of-last-word](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0043-multiply-strings](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0043-multiply-strings/) | Medium |
 <!---LeetCode Topics End-->

@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0043-multiply-strings/) | Medium |
+| [0044-wildcard-matching](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0058-length-of-last-word](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0044-wildcard-matching](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0044-wildcard-matching](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0044-wildcard-matching](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |

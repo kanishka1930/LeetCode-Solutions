@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
+| [0048-rotate-image](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0043-multiply-strings](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0043-multiply-strings/) | Medium |
+| [0048-rotate-image](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0037-sudoku-solver/) | Hard |
+| [0048-rotate-image](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0051-n-queens](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0066-plus-one](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
+| [0051-n-queens](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0037-sudoku-solver/) | Hard |
+| [0051-n-queens](https://github.com/kanishka1930/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 ## Dancing Links
 | Problem Name | Difficulty |
 | ------- | ------- |
